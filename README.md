@@ -1,5 +1,5 @@
 # Botter
-Making Various bot accounts.
+Making Various email accounts and storing credentials in a database then using these credentials to leverage account creation
 #
 #
 So far I am working on generating Protonmail email accounts.
