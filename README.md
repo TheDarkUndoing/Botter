@@ -2,7 +2,8 @@
 Making Various bot accounts
 
 Dependencies:
-python-guerrillamail\n
+python-guerrillamail
+
 selenium
 
 
