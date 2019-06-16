@@ -1,7 +1,8 @@
 # Botter
 Making Various bot accounts
 
-Dependencies:
+# Dependencies:
+
 python-guerrillamail
 
 selenium
