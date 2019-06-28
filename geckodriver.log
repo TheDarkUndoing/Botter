@@ -1,0 +1,1916 @@
+1560658970713	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.r1alYwPjRTrZ"
+1560659447741	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.Avom2AYsVQJk"
+1560659448428	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560659448429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560659448430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560659450695	Marionette	INFO	Listening on port 1417
+1560659450987	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 22ms)
+JavaScript warning: blob:https://mail.protonmail.com/e506b086-88cd-4cfa-b94a-4905feab9d43, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/e506b086-88cd-4cfa-b94a-4905feab9d43, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/e506b086-88cd-4cfa-b94a-4905feab9d43, line 0: Successfully compiled asm.js code (total compilation time 47ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+[Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 3400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7216, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7216, [Child 26712, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26712, Ch1560659484721	Marionette	INFO	Stopped listening on port 1417
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 21984, Chrom
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560659489761	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.QArnGaM2ZYNv"
+1560659490451	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560659490452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560659490452	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560659492309	Marionette	INFO	Listening on port 1480
+1560659492494	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/1058a6b2-fb36-42c9-953b-7c9bce391e0e, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/1058a6b2-fb36-42c9-953b-7c9bce391e0e, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/1058a6b2-fb36-42c9-953b-7c9bce391e0e, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 17024, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24880, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24880, Chrome_Ch1560659516049	Marionette	INFO	Stopped listening on port 1480
+[GPU 23588, 
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560659520474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.9xWBkPr8drV8"
+1560659521175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560659521175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560659521175	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560659523063	Marionette	INFO	Listening on port 1553
+1560659523193	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/ed1f3f38-0548-4386-95b3-5752817b8b55, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/ed1f3f38-0548-4386-95b3-5752817b8b55, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/ed1f3f38-0548-4386-95b3-5752817b8b55, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 22416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16512, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16512, [Child 20588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20588, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21332, Chrome_ChildThread1560659642680	Marionette	INFO	Stopped listening on port 1553
+[GPU 12728, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 0: Successfully compiled asm.js code (total compilation time 41ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 4744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15668, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15668, Chrome_ChildThread] WAR[Parent 4744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25332, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25332, [Parent 4744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[1560659645218	Marionette	INFO	Stopped listening on port 1650
+[GPU 158
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560659650179	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.m6TNL2Tjc1mb"
+1560659650858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560659650858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560659650858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560659652886	Marionette	INFO	Listening on port 19374
+1560659652917	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 17ms)
+JavaScript warning: blob:https://mail.protonmail.com/02afe307-835b-43a1-97e5-44647abbbac1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/02afe307-835b-43a1-97e5-44647abbbac1, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/02afe307-835b-43a1-97e5-44647abbbac1, line 0: Successfully compiled asm.js code (total compilation time 61ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+[Parent 23188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23188, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_1560659721599	Marionette	INFO	Listening on port 19463
+1560659721920	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f23685d-26a1-4a07-bb42-c09e9c987913, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f23685d-26a1-4a07-bb42-c09e9c987913, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/7f23685d-26a1-4a07-bb42-c09e9c987913, line 0: Successfully compiled asm.js code (total compilation time 59ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 17124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://mail.protonmail.com/a46a8dcc-5baa-4076-bd36-3e087c1f6a17, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/a46a8dcc-5baa-4076-bd36-3e087c1f6a17, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/a46a8dcc-5baa-4076-bd36-3e087c1f6a17, line 0: Successfully compiled asm.js code (total compilation time 71ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+1560660028228	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.vstHsAUep4Qv"
+1560660028751	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560660028752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560660028752	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560660030607	Marionette	INFO	Listening on port 19626
+1560660030971	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/115adb52-1d56-4cc8-b12a-e366001e72dd, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/115adb52-1d56-4cc8-b12a-e366001e72dd, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/115adb52-1d56-4cc8-b12a-e366001e72dd, line 0: Successfully compiled asm.js code (total compilation time 44ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6240, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15612, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15612, Chrome_ChildThread] WARNING: pipe error: [Parent 12496, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2232, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2232, Chrome_ChildThread] WARNING: p1560660080179	Marionette	INFO	Stopped listening on port 19626
+[GPU 26700,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ line 341
+[Child 13576, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13576, Chr[Parent 17124, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7416, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.c1560660028183	Marionette	INFO	Stopped listening on port 19463
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10924, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560660079944	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.1LkFewrJ9UUr"
+1560660080578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560660080578	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560660080579	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560660082547	Marionette	INFO	Listening on port 19684
+1560660082671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://mail.protonmail.com/257c3dd9-555f-4c64-a499-48738c5061ff, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/257c3dd9-555f-4c64-a499-48738c5061ff, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/257c3dd9-555f-4c64-a499-48738c5061ff, line 0: Successfully compiled asm.js code (total compilation time 136ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13768, [Child 1708, CChrome_ChildThread] WAhrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 3[Parent 6436, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560660110038	Marionette	INFO	Stopped listening on port 19684
+[GPU 2296
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560660505447	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.eoXXIJN4aw1m"
+1560660505865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560660505865	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560660505866	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560660507446	Marionette	INFO	Listening on port 20003
+1560660507566	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/648cd28a-4cc4-4c25-8b49-0a89e770428f, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/648cd28a-4cc4-4c25-8b49-0a89e770428f, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/648cd28a-4cc4-4c25-8b49-0a89e770428f, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 6720, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6720, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12848, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12[Parent 6720, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22352, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22352, Chrome_1560660541134	Marionette	INFO	Stopped listening on port 20003
+[GPU 2072
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560660546363	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.OvDXUawwWr9g"
+1560660546775	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560660546776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560660546776	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560660548308	Marionette	INFO	Listening on port 20079
+1560660548492	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/e277b3d5-de56-4ece-a698-a9a0fd3ee9cc, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/e277b3d5-de56-4ece-a698-a9a0fd3ee9cc, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/e277b3d5-de56-4ece-a698-a9a0fd3ee9cc, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 15760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25720, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chrom[Parent 15760, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560661265489	Marionette	INFO	Stopped listening on port 20079
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 215
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560661272659	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.NNRxUnXvb6JY"
+1560661273097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661273097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661273097	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560661274678	Marionette	INFO	Listening on port 20808
+1560661274776	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/2b805da2-9e33-4bee-ab23-b6be8a71bf04, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/2b805da2-9e33-4bee-ab23-b6be8a71bf04, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/2b805da2-9e33-4bee-ab23-b6be8a71bf04, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1560661300578	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.Mpj09X5VtnyF"
+1560661300969	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661300970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661300970	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560661302565	Marionette	INFO	Listening on port 20875
+1560661302700	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e25f614-8954-4266-8a97-cecc92527061, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e25f614-8954-4266-8a97-cecc92527061, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e25f614-8954-4266-8a97-cecc92527061, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 6964, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22280, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[Parent 6964, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/[Parent 6964, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 8516, Chrome_ChildThread] WARNING: 1560661524000	Marionette	INFO	Stopped listening on port 20875
+[GPU 25736
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560661535224	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.ng2JLVdri1et"
+1560661535899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661535899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661535899	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560661537712	Marionette	INFO	Listening on port 21436
+1560661537939	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/c2a5d92a-0d6b-4150-a5ae-865dd0fbf93b, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/c2a5d92a-0d6b-4150-a5ae-865dd0fbf93b, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/c2a5d92a-0d6b-4150-a5ae-865dd0fbf93b, line 0: Successfully compiled asm.js code (total compilation time 55ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1560661665430	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.aAggFEVPVZPt"
+1560661666372	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661666375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661666375	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560661669373	Marionette	INFO	Listening on port 21621
+1560661669753	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 31ms)
+JavaScript warning: blob:https://mail.protonmail.com/75bb7a9e-5ea0-4041-bb59-a7c12e7ecf51, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/75bb7a9e-5ea0-4041-bb59-a7c12e7ecf51, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/75bb7a9e-5ea0-4041-bb59-a7c12e7ecf51, line 0: Successfully compiled asm.js code (total compilation time 70ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 21220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium[Child 21920, Chrome_ChildTh/rsrc/chrome/common/ipc_channel_win.cc, line 341
+ead] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome[Parent 21220, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24348, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 241560661721675	Marionette	INFO	Stopped listening on port 21621
+[GPU 21
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560661727798	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.AOgmoT6xXkPB"
+1560661728420	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661728421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661728421	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560661730012	Marionette	INFO	Listening on port 21721
+1560661730045	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/4e4c91c8-3453-44ef-99c6-c95fda6c38b7, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/4e4c91c8-3453-44ef-99c6-c95fda6c38b7, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/4e4c91c8-3453-44ef-99c6-c95fda6c38b7, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1560661998581	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.38KnppxdzFyL"
+1560661999230	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560661999231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560661999231	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560662000831	Marionette	INFO	Listening on port 22036
+1560662001323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 20ms)
+JavaScript warning: blob:https://mail.protonmail.com/1306ceb7-1030-43c2-8004-111bb1e643f7, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/1306ceb7-1030-43c2-8004-111bb1e643f7, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/1306ceb7-1030-43c2-8004-111bb1e643f7, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 7668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 7668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26968, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/[Parent 7668, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16388, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/sr1560662146942	Marionette	INFO	Stopped listening on port 22036
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14344, Chrome_ChildTh
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560662222200	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.1LprdT5xfheu"
+1560662222857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560662222857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560662222857	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560662224414	Marionette	INFO	Listening on port 22290
+1560662224913	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/bc24f3b9-18c5-4b38-99d5-32a226b81526, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/bc24f3b9-18c5-4b38-99d5-32a226b81526, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/bc24f3b9-18c5-4b38-99d5-32a226b81526, line 0: Successfully compiled asm.js code (total compilation time 43ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+[Parent 20332, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25364, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26856, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26856, Chrome_ChildThread] WARNING: pipe error: 109: file z1560662300589	Marionette	INFO	Stopped listening on port 22290
+[GPU 22424
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560662445415	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.NilOuUa9sNzt"
+1560662446141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560662446141	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560662446142	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560662448356	Marionette	INFO	Listening on port 22524
+1560662448641	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/505fd142-76c7-4f00-9dbd-6d14a8313109, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/505fd142-76c7-4f00-9dbd-6d14a8313109, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/505fd142-76c7-4f00-9dbd-6d14a8313109, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5140, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5140, Chrome_ChildThr[Parent 244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7436, Chrome[Parent 244, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560662621746	Marionette	INFO	Stopped listening on port 22524
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+ine 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/27a8d342-4ee8-4102-92d9-4ee230cd4cc1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/27a8d342-4ee8-4102-92d9-4ee230cd4cc1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/27a8d342-4ee8-4102-92d9-4ee230cd4cc1, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 12272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12272, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560662614925	Marionette	INFO	Stopped listening on port 22693
+[GPU 2
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560662907112	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.lHFUqKV3KvA6"
+1560662907730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560662907730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560662907730	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560662909240	Marionette	INFO	Listening on port 23017
+1560662909338	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/3f4ae6ba-c8e2-476b-adfd-85982b03f742, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/3f4ae6ba-c8e2-476b-adfd-85982b03f742, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/3f4ae6ba-c8e2-476b-adfd-85982b03f742, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1196, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19688, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19688[Parent 3556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560662945842	Marionette	INFO	Stopped listening on port 23017
+[GPU 2560
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560662950649	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.jNQMwrJNigo4"
+1560662951043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560662951043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560662951043	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560662952600	Marionette	INFO	Listening on port 23097
+1560662952761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/8e8a0d74-2b73-4b90-8e90-208c2a514e71, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/8e8a0d74-2b73-4b90-8e90-208c2a514e71, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/8e8a0d74-2b73-4b90-8e90-208c2a514e71, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 19932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19932, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12708,1560663054139	Marionette	INFO	Stopped listening on port 23097
+[GPU 127
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+36, Ch
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560663059769	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.L3VBawgYsSfW"
+1560663060185	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560663060186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560663060186	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560663061951	Marionette	INFO	Listening on port 23235
+1560663061990	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://mail.protonmail.com/c724e553-3ffe-4b54-b24f-53f8606db8ba, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/c724e553-3ffe-4b54-b24f-53f8606db8ba, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/c724e553-3ffe-4b54-b24f-53f8606db8ba, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Child 24964, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9041560663167852	Marionette	INFO	Stopped listening on port 23235
+[GPU
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 22432, Chrome_Chil
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560663173312	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.lARHpEfrr1vA"
+1560663173722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560663173722	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560663173723	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560663175274	Marionette	INFO	Listening on port 23375
+1560663175435	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/0bbf43f4-2014-47a0-a17e-297fa3cc1672, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/0bbf43f4-2014-47a0-a17e-297fa3cc1672, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/0bbf43f4-2014-47a0-a17e-297fa3cc1672, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14564, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line[Child 22412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22412, Chrome_Ch[Parent 19520, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19572, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19572, Chrome_ChildThread] 1560663201656	Marionette	INFO	Stopped listening on port 23375
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1284
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560663618104	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.39s0MUAbdYEF"
+1560663618541	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560663618542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560663618542	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560663620077	Marionette	INFO	Listening on port 23812
+1560663620223	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/f45648d6-c204-4a32-9ddc-f1c3e47f16f1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/f45648d6-c204-4a32-9ddc-f1c3e47f16f1, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/f45648d6-c204-4a32-9ddc-f1c3e47f16f1, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 13644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13644, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_151560663688079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560663688079	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560663688080	addons.webextension.screenshots@moz1560663688200	Marionette	INFO	Stopped listening on port 23812
+
+###!!! [Child][RunMessage] Error: Channel closing: too la1560663689787	Marionette	INFO	Listening on port 23914
+1560663690199	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 75ms)
+JavaScript warning: blob:https://mail.protonmail.com/3b6d344f-a543-4652-ab22-09eabf79fe0a, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/3b6d344f-a543-4652-ab22-09eabf79fe0a, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/3b6d344f-a543-4652-ab22-09eabf79fe0a, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 16172, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 378[Child 7212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 721560663734782	Marionette	INFO	Stopped listening on port 23914
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 26016,
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560663734210	Marionette	INFO	Listening on port 23995
+1560663734608	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/c9e2a75b-6d12-483c-a4d5-292af09771eb, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/c9e2a75b-6d12-483c-a4d5-292af09771eb, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/c9e2a75b-6d12-483c-a4d5-292af09771eb, line 0: Successfully compiled asm.js code (total compilation time 41ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 24140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7412, Chrome_ChildThread] WARNING: pipe er[Parent 24140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16948, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 16948, Chrome[Parent 24140, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6496, C1560663955697	Marionette	INFO	Stopped listening on port 23995
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 1906
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560664172211	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.dICG2vKJlZIq"
+1560664172621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560664172621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560664172621	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560664174275	Marionette	INFO	Listening on port 24398
+1560664174323	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/01e856af-a048-49a4-9104-829d5c1fdb03, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/01e856af-a048-49a4-9104-829d5c1fdb03, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/01e856af-a048-49a4-9104-829d5c1fdb03, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+[Parent 17700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 17700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22112, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 22112, Chrome_ChildThread] WARN[Parent 17700, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 12296, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src1560664310768	Marionette	INFO	Listening on port 24552
+1560664310923	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/a417608d-c57a-4829-8f84-725fa679c65c, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/a417608d-c57a-4829-8f84-725fa679c65c, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/a417608d-c57a-4829-8f84-725fa679c65c, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1560664320532	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+[Parent 21400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 21400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26888, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_155803[Parent 21400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 7788, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21400, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560664419955	Marionette	INFO	Stopped listening on port 24552
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 8932, 
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560664425443	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.RmgSSuR9DeIU"
+1560664425863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560664425863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560664425863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560664427388	Marionette	INFO	Listening on port 24699
+1560664427557	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/fbda2c9c-bff1-433d-9c40-f8e6b6994e87, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/fbda2c9c-bff1-433d-9c40-f8e6b6994e87, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/fbda2c9c-bff1-433d-9c40-f8e6b6994e87, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+1560664437118	Marionette	WARN	TimedPromise timed out after 500 ms: stacktrace:
+bail@chrome://marionette/content/sync.js:223:64
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+JavaScript error: https://pythonspot.com/js/index.js, line 1: ReferenceError: $ is not defined
+[Parent 26168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26940, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc[Parent 26168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 26168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 27508, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10544, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrom[Parent 26168, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17136, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560665480439	Marionette	INFO	Stopped listening on port 24699
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 3484
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+fully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+[Parent 21060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/6335ad92-de2c-452f-9de3-1136546a953a, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/6335ad92-de2c-452f-9de3-1136546a953a, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/6335ad92-de2c-452f-9de3-1136546a953a, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+[Parent 21060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 21024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 21060, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1516, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1511560665201168	Marionette	INFO	Stopped listening on port 25285
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16432, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560665217796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.CsV0f7HqlUGz"
+1560665218430	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560665218431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560665218431	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560665220056	Marionette	INFO	Listening on port 25525
+1560665220522	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/15e7996f-28ef-42ca-9587-fc63f8c25267, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/15e7996f-28ef-42ca-9587-fc63f8c25267, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/15e7996f-28ef-42ca-9587-fc63f8c25267, line 0: Successfully compiled asm.js code (total compilation time 50ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 25908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 259[Parent 6744, Gecko_IOThread] WARNING: file z:/task_1558035249/build/src/ipc/chromium/src/base/process_util_win.cc, line 160
+[Parent 6744, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17988, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 171560665428599	Marionette	INFO	Stopped listening on port 25525
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 19580, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560665433210	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.AyrFhDKqdqVm"
+1560665433624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560665433624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560665433624	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560665435168	Marionette	INFO	Listening on port 25752
+1560665435320	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/58564bf9-aecf-4a8b-8a78-c5706adf380e, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/58564bf9-aecf-4a8b-8a78-c5706adf380e, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/58564bf9-aecf-4a8b-8a78-c5706adf380e, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 22500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 22500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20976, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20976, Ch[Child 1056, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1056, Chrome_Child[Parent 22500, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 17704, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 171560665458841	Marionette	INFO	Stopped listening on port 25752
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 20896, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560665479359	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.h9e14CgsxKa4"
+1560665479778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560665479778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560665479778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560665481688	Marionette	INFO	Listening on port 25835
+1560665482078	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 16ms)
+JavaScript warning: blob:https://mail.protonmail.com/a0787051-47c0-478b-bd91-0a8de62344ca, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/a0787051-47c0-478b-bd91-0a8de62344ca, line 0: Successfully compiled asm.js code (total compilation time 9ms)
+JavaScript warning: blob:https://mail.protonmail.com/a0787051-47c0-478b-bd91-0a8de62344ca, line 0: Successfully compiled asm.js code (total compilation time 52ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 24532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1568, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 20552, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2[Parent 24532, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13592, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 131560665579560	Marionette	INFO	Stopped listening on port 25835
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 10056, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560665588377	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.GmQAtvsMGFM8"
+1560665588778	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560665588779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560665588779	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560665590319	Marionette	INFO	Listening on port 25972
+1560665590496	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/eb9b0ee1-6f54-4d9a-a397-d1366291f458, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: blob:https://mail.protonmail.com/eb9b0ee1-6f54-4d9a-a397-d1366291f458, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/eb9b0ee1-6f54-4d9a-a397-d1366291f458, line 0: Successfully compiled asm.js code (total compilation time 38ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10728, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3392, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 11860, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4540, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/sr1560665881663	Marionette	INFO	Stopped listening on port 25972
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560665886892	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.4SgukHcViRBr"
+1560665887299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560665887299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560665887299	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560665888917	Marionette	INFO	Listening on port 26258
+1560665889004	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/f3b520fb-0dce-4980-b0d5-734a6e13c33f, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: blob:https://mail.protonmail.com/f3b520fb-0dce-4980-b0d5-734a6e13c33f, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/f3b520fb-0dce-4980-b0d5-734a6e13c33f, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 23184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 23IPDL protocol error: Handler returned error code!
+184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Child 26340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 26340, Ch[Child 9212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9212, Chrome_ChildThread] WAR[Parent 23184, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11412, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11412, Chrome1560666607809	Marionette	INFO	Stopped listening on port 26258
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14820, Chr
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+vices-settings/remote-settings.js:203:13
+
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 19ms)
+JavaScript warning: blob:https://mail.protonmail.com/66d9df54-c964-46ac-8e8a-1ea680840bf1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/66d9df54-c964-46ac-8e8a-1ea680840bf1, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/66d9df54-c964-46ac-8e8a-1ea680840bf1, line 0: Successfully compiled asm.js code (total compilation time 44ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 1048, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/bui[Child 21740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child[Parent 8448, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2908, Chrome_Child1560666552630	Marionette	INFO	Stopped listening on port 26474
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 503
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560667331787	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.8BNe6JbjRweW"
+1560667332397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560667332397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560667332397	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560667334033	Marionette	INFO	Listening on port 27541
+1560667334509	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 15ms)
+JavaScript warning: blob:https://mail.protonmail.com/9df8a479-4c7b-4294-8ef3-9e1486c732ec, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/9df8a479-4c7b-4294-8ef3-9e1486c732ec, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/9df8a479-4c7b-4294-8ef3-9e1486c732ec, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 10164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 10164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 19248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 10164, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560667722089	Marionette	INFO	Stopped listening on port 27541
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 16692, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560667728606	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.1oAHW5xEGp4a"
+1560667729013	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560667729014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560667729014	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560667730540	Marionette	INFO	Listening on port 27913
+1560667730715	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/37e0fcb5-1a69-494f-be59-89b9b030eaa0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/37e0fcb5-1a69-494f-be59-89b9b030eaa0, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/37e0fcb5-1a69-494f-be59-89b9b030eaa0, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 11740, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromiuconsole.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 18340, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Chil[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+[Child 22248, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x1F0001,name=PBrowser::Msg_AsyncMessage) Closed channel: cannot send/recv
+
+JavaScript error: resource:///actors/AboutReaderChild.jsm, line 80: NS_ERROR_UNEXPECTED: 
+[Parent 13420, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13464, Chrome_Ch
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0099,name=PBrowser::Msg_UpdateNativeWindowHandle) Closed channel: cannot send/recv
+
+ildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+###!!! [Parent][MessageChannel] Error: (msgtype=0x1F0088,name=PBrowser::Msg_Destroy) Closed channel: cannot send/recv
+
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x36010E,name=PContent::Msg_CommitBrowsingContextTransaction) Closed channel: cannot send/recv
+
+[Child 13464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x360113,name=PContent::Msg_DetachBrowsingContext) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+
+###!!! [Child][MessageChannel] Error: (msgtype=0x380001,name=PCookieService::Msg_SetCookieString) Closed channel: cannot send/recv
+
+1560709994208	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.aZdbqC5G28Iw"
+1560709994863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560709994863	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560709994864	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560709997097	Marionette	INFO	Listening on port 12268
+1560709997426	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 47ms)
+JavaScript warning: blob:https://mail.protonmail.com/e70a3e6f-dd97-4ffd-83e8-ff0bdcfe1906, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/e70a3e6f-dd97-4ffd-83e8-ff0bdcfe1906, line 0: Successfully compiled asm.js code (total compilation time 8ms)
+JavaScript warning: blob:https://mail.protonmail.com/e70a3e6f-dd97-4ffd-83e8-ff0bdcfe1906, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 13556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3708, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 13556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14200, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14200,[Parent 13556, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560710447682	Marionette	INFO	Stopped listening on port 12268
+[GP
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560710491729	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.QJ4qedCUCXZl"
+1560710492339	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560710492340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560710492340	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560710493866	Marionette	INFO	Listening on port 12371
+1560710493951	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 18ms)
+JavaScript warning: blob:https://mail.protonmail.com/c431f06e-8ac5-4ab5-900d-7863e9385d55, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/c431f06e-8ac5-4ab5-900d-7863e9385d55, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/c431f06e-8ac5-4ab5-900d-7863e9385d55, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 16336, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10908, Chrome_ChildThread] WARNING: pipe error: 109:[Parent 16336, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13124, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13124,1560710498754	Marionette	INFO	Stopped listening on port 12371
+[GPU 112
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560710634468	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.or4brqlQqOAx"
+1560710634882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560710634882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560710634882	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560710636546	Marionette	INFO	Listening on port 12429
+1560710636606	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/4a91943f-651c-465a-accd-2f8efccc7356, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/4a91943f-651c-465a-accd-2f8efccc7356, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/4a91943f-651c-465a-accd-2f8efccc7356, line 0: Successfully compiled asm.js code (total compilation time 45ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+1560710650186	Marionette	INFO	Stopped listening on port 12429
+[Child 5600, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5[Parent 16264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 16264, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4768, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 4768, Chrome_ChildThr
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 28
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560710664338	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.sTb0uNhZoqTj"
+1560710664740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560710664740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560710664740	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560710666384	Marionette	INFO	Listening on port 12476
+1560710666447	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 12ms)
+JavaScript warning: blob:https://mail.protonmail.com/88faec4b-b377-4291-ba66-705042916cd8, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/88faec4b-b377-4291-ba66-705042916cd8, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/88faec4b-b377-4291-ba66-705042916cd8, line 0: Successfully compiled asm.js code (total compilation time 36ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+[Parent 12516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 12516, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13844, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13844, Chrome_ChildThread] WARNING: pip1560710705923	Marionette	INFO	Stopped listening on port 12476
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560710765462	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.Lc9u8ty1RbyZ"
+1560710765883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560710765883	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560710765884	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560710767380	Marionette	INFO	Listening on port 12560
+1560710767585	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e58364e-bcbf-46df-89c1-dfe97b4d47eb, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e58364e-bcbf-46df-89c1-dfe97b4d47eb, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/6e58364e-bcbf-46df-89c1-dfe97b4d47eb, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 11856, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 14868, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560710792760	Marionette	INFO	Stopped listening on port 12560
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4768
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560710838440	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.9PrsKsBTYfdU"
+1560710838849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560710838849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560710838849	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560710840596	Marionette	INFO	Listening on port 12616
+1560710840670	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/00c621c9-9e53-4c85-8d33-807abc261c76, line 0: Successfully compiled asm.js code (total compilation time 7ms)
+JavaScript warning: blob:https://mail.protonmail.com/00c621c9-9e53-4c85-8d33-807abc261c76, line 0: Successfully compiled asm.js code (total compilation time 6ms)
+JavaScript warning: blob:https://mail.protonmail.com/00c621c9-9e53-4c85-8d33-807abc261c76, line 0: Successfully compiled asm.js code (total compilation time 42ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 3ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 15604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 15604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9320, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/[Parent 15604, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560713371293	Marionette	INFO	Stopped listening on port 12616
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU [Parent 14116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 14116, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+1560713372376	Marionette	INFO	Stopped listening on port 12673
+[GPU 1
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560716092542	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.Nvua3MH4v98u"
+1560716092953	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560716092954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560716092954	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560716094561	Marionette	INFO	Listening on port 13784
+1560716094677	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/f30b990f-726f-4082-8db8-3503b125e0b8, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/f30b990f-726f-4082-8db8-3503b125e0b8, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/f30b990f-726f-4082-8db8-3503b125e0b8, line 0: Successfully compiled asm.js code (total compilation time 37ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+[Parent 12968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 12968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 2492, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 24[Parent 12968, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6024, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium1560716503457	Marionette	INFO	Stopped listening on port 13784
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 9132, Chro
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560716564007	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.8HU0smY8E7Yw"
+1560716564429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560716564429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560716564429	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560716566018	Marionette	INFO	Listening on port 13865
+1560716566119	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/50b8803d-e525-468d-bfb5-f1502d3546f4, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/50b8803d-e525-468d-bfb5-f1502d3546f4, line 0: Successfully compiled asm.js code (total compilation time 10ms)
+JavaScript warning: blob:https://mail.protonmail.com/50b8803d-e525-468d-bfb5-f1502d3546f4, line 0: Successfully compiled asm.js code (total compilation time 45ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+[Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9356, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 9356, Chrome_ChildThread] WARN[Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1504, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5372, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 5372, Chrome_ChildThread] WAR1560717216523	Marionette	INFO	Stopped listening on port 13865
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 14444, C
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560717231153	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.M87OgT0AMBBS"
+1560717231568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560717231568	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560717231569	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560717233148	Marionette	INFO	Listening on port 13948
+1560717233263	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/da979d39-3593-49ba-918b-7ee5d24ad781, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/da979d39-3593-49ba-918b-7ee5d24ad781, line 0: Successfully compiled asm.js code (total compilation time 11ms)
+JavaScript warning: blob:https://mail.protonmail.com/da979d39-3593-49ba-918b-7ee5d24ad781, line 0: Successfully compiled asm.js code (total compilation time 39ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10152, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10[Parent 3092, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15952, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 151560717285192	Marionette	INFO	Stopped listening on port 13948
+[GPU 810
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1560717290477	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Me\\AppData\\Local\\Temp\\rust_mozprofile.oOeFBrjF4G78"
+1560717290858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: mozillaAddons
+1560717290858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: resource://pdf.js/
+1560717290858	addons.webextension.screenshots@mozilla.org	WARN	Loading extension 'screenshots@mozilla.org': Reading manifest: Invalid extension permission: about:reader*
+1560717292444	Marionette	INFO	Listening on port 13996
+1560717292587	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 13ms)
+JavaScript warning: blob:https://mail.protonmail.com/428e39fb-af0c-4a3d-ac8e-10e4be90c6c1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript warning: blob:https://mail.protonmail.com/428e39fb-af0c-4a3d-ac8e-10e4be90c6c1, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/428e39fb-af0c-4a3d-ac8e-10e4be90c6c1, line 0: Successfully compiled asm.js code (total compilation time 40ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+JavaScript error: , line 0: uncaught exception: Error: Line numbers must be >= 1
+console.error: BroadcastService: 
+  receivedBroadcastMessage: handler for
+  remote-settings/monitor_changes
+  threw error:
+  Message: Error: Polling for changes failed: http://%(server)s/dummy/blocklist//buckets/monitor/collections/changes/records?_expected=%221560618350307%22 is not a valid URL..
+  Stack:
+    remoteSettingsFunction/remoteSettings.pollChanges@resource://services-settings/remote-settings.js:203:13
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3960, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3960, Chrome_ChildThread] WARNING
+###!!! [Child][MessageChannel] Error: (msgtype=0x610027,name=PNecko::Msg_RemoveRequestContext) Channel closing: too late to send/recv, messages will be lost
+
+[Child
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+ 10444, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[Child 10444, Chrome_ChildThread] W
+###!!! [Child][MessageChannel] Error: (msgtype=0x530005,name=PHttpChannel::Msg_Cancel) Closed channel: cannot send/recv
+
+ARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 10284, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 1416, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13472, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 13472, Chrome_ChildThread] WARNING: piconsole.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 15624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 15624, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341[Child 6212, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 6212, Chrome_Ch1560719906216	Marionette	INFO	Stopped listening on port 14185
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+arning: https://mail.protonmail.com/9.83156b12bb.chunk.js, line 0: Successfully compiled asm.js code (total compilation time 14ms)
+JavaScript warning: blob:https://mail.protonmail.com/1ea46646-d4d2-4ff6-a3e4-b07d417670a6, line 0: Successfully compiled asm.js code (total compilation time 5ms)
+JavaScript warning: blob:https://mail.protonmail.com/1ea46646-d4d2-4ff6-a3e4-b07d417670a6, line 0: Successfully compiled asm.js code (total compilation time 4ms)
+JavaScript warning: blob:https://mail.protonmail.com/1ea46646-d4d2-4ff6-a3e4-b07d417670a6, line 0: Successfully compiled asm.js code (total compilation time 35ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=0, line 0: Successfully compiled asm.js code (total compilation time 1ms)
+JavaScript warning: https://mail.protonmail.com/api/challenge/js?Type=1, line 0: Successfully compiled asm.js code (total compilation time 2ms)
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+IPDL protocol error: Handler returned error code!
+
+###!!! [Parent][DispatchAsyncMessage] Error: PLayerTransaction::Msg_ReleaseLayer Processing error: message was deserialized, but the handler returned false (indicating failure)
+
+console.warn: "Error while detaching the thread front: 'detach' request packet to 'server1.conn0.child1/context19' can't be sent as the connection is closed."
+[Child 2436, Chrome_ChildThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Parent 8892, Gecko_IOThread] WARNING: pipe error: 109: file z:/task_1558035249/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 341
+[Child 3976, C1560718593814	Marionette	INFO	Stopped listening on port 14302
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+[GPU 4380, Chrome_Chi
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
